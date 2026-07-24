@@ -12,7 +12,7 @@ DMX Core builds professional DMX lighting control software and hardware for inte
 ### DMX Core 100
 A cross‑platform DMX lighting control platform available as **desktop software** (Windows, macOS, Linux) or as a **dedicated wall‑mounted touchscreen controller**.
 
-- Up to **200 DMX universes**
+- Up to **800 DMX universes**
 - Protocol support: **ArtNet, sACN, KiNet, OSC, MQTT**
 - Timeline editor for building lighting sequences and shows
 - Scheduling, automation triggers, and web/API access
